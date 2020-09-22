@@ -1,7 +1,7 @@
 # MastodonLletresManel
 Bot que tooteja fragments aleatoris de les lletres del grup Manel
 
-Per a la instal·lació cal donar d'alta un usuari a una xarxa federada com mastodont.cat, que és una instància específica per a bots.
+Per a la instal·lació cal donar d'alta un usuari a una xarxa federada com mastodont.cat, i especificar a les preferències del compte que es tracta d'un bot.
 
 Un cop creat el bot, crea una aplicació: ves a "preferències" i "desenvolupament", emplena els camps requerits i desa.
 
